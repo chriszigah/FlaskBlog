@@ -4,7 +4,7 @@ credit to @CoreyMSchafer
 
 ## FlaskBlog web app using Python Flask
 
-![alt text](https://github.com/efochristian/FlaskBlog/blob/master/flaskblog/static/flaskblog.PNG)
+![App Image](https://github.com/efochristian/FlaskBlog/blob/master/flaskblog/static/flaskblog.PNG)
 
 Up and Running (steps)
 
