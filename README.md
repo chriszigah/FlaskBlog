@@ -9,6 +9,7 @@ credit to @CoreyMSchafer
 Up and Running (steps)
 
 1. Create a python virtual environment
-2. git clone https://github.com/efochristian/FlaskBlog.git
-3. run: pip install -r requirements.txt in your shell.
-4. python run.py
+2. Activate venv
+3. git clone https://github.com/efochristian/FlaskBlog.git
+4. run: pip install -r requirements.txt in your shell.
+5. python run.py
